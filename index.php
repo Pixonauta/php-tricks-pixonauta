@@ -9,7 +9,7 @@
 <body>
     <h1>Php tricks</h1>
     <form  action="upload-file.php" method="post" enctype="multipart/form-data">
-        <label for="fileTest">Choose a profile picture:</label><br>
+        <label for="fileTest">Selecciona una imagen/archivo:</label><br>
         <input id="fileTest" name="fileTest" type="file"><br><br>
         <button type="submit">Guardar</button>
     </form>
